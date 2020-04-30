@@ -1,0 +1,27 @@
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+★                                                                             ★
+★         	                                                              ★
+★                  	    __                                     	      ★
+★                  	   [  |                                    	      ★
+★	 _   _   __  .---.  | |  .---.   .--.   _ .--..--.  .---.  	      ★
+★	[ \ [ \ [  ]/ /__\\ | | / /'`\]/ .'`\ \[ `.-. .-. |/ /__\\  	      ★
+★ 	 \ \/\ \/ / | \__., | | | \__. | \__. | | | | | | || \__.,   	      ★
+★  	  \__/\__/   '.__.'[___]'.___.' '.__.' [___||__||__]'.__.' 	      ★
+★                                                           		      ★
+★                                                                             ★
+★         Explore a vast new continent and slay monsters to survive. 	      ★
+★	   A world full of challenges and opportunities awaits you. 	      ★
+★									      ★
+★                 Choose one character to start the game please:              ★
+★                                  H:HUMAN                                    ★
+★                                  D:DWARF                                    ★
+★                                  E:ELVES                                    ★
+★                                  O:ORC                                      ★
+★                     					                      ★
+★      			TYPE h , d , e , o TO PLAY THE GAME.	      	      ★
+★			TYPE q TO QUIT.		 			      ★
+★                                                                             ★
+★               	Jingwen Min, Yuxuan Li, Yingtong Liu                  ★
+★		        We are the creators of this world of fun.	      ★
+★									      ★
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
